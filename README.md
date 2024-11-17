@@ -1,4 +1,4 @@
-# Titanical_Machine_Learning
+# Titanical_Machine_Learning (please view in code mode not preview mode)
 this repository contains my best models for the Kaggle Titanic - Machine Learning from Disaster competition, which involves predicting who survives on the Titanic.
 
 Here is a legend on the features given in the dataset:
